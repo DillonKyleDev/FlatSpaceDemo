@@ -1,0 +1,323 @@
+{
+    "animation": {
+        "_loop": false,
+        "animationProperties": {
+            "audio": [],
+            "boxCollider": [],
+            "button": [],
+            "camera": [],
+            "canvas": [],
+            "characterController": [],
+            "circleCollider": [],
+            "event": [
+                {
+                    "functionName": "SpawnWave",
+                    "parameters": [
+                        {
+                            "bool": false,
+                            "double": 2.45234,
+                            "float": 0.0,
+                            "int": 10,
+                            "long": 0,
+                            "string": "",
+                            "type": "int",
+                            "vector2X": -1.0,
+                            "vector2Y": -1.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "Pawn",
+                            "type": "string",
+                            "vector2X": -1.0,
+                            "vector2Y": -1.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "SpawnLeft1",
+                            "type": "string",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "",
+                            "type": "Vector2",
+                            "vector2X": 1.0,
+                            "vector2Y": -1.0
+                        }
+                    ],
+                    "time": 11980.0
+                },
+                {
+                    "functionName": "SpawnWave",
+                    "parameters": [
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 10,
+                            "long": 0,
+                            "string": "",
+                            "type": "int",
+                            "vector2X": -1.0,
+                            "vector2Y": -1.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "Pawn",
+                            "type": "string",
+                            "vector2X": -1.0,
+                            "vector2Y": -1.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "SpawnTop5",
+                            "type": "string",
+                            "vector2X": -1.0,
+                            "vector2Y": -1.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "",
+                            "type": "Vector2",
+                            "vector2X": 0.0,
+                            "vector2Y": -1.0
+                        }
+                    ],
+                    "time": 5600.0
+                },
+                {
+                    "functionName": "SpawnWave",
+                    "parameters": [
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 10,
+                            "long": 0,
+                            "string": "",
+                            "type": "int",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "Pawn",
+                            "type": "string",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "SpawnTop1",
+                            "type": "string",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "",
+                            "type": "Vector2",
+                            "vector2X": 0.0,
+                            "vector2Y": -1.0
+                        }
+                    ],
+                    "time": 17979.982421875
+                },
+                {
+                    "functionName": "SpawnWave",
+                    "parameters": [
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 10,
+                            "long": 0,
+                            "string": "",
+                            "type": "int",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "Pawn",
+                            "type": "string",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "SpawnTop9",
+                            "type": "string",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "",
+                            "type": "Vector2",
+                            "vector2X": 0.0,
+                            "vector2Y": -1.0
+                        }
+                    ],
+                    "time": 26020.01171875
+                },
+                {
+                    "functionName": "SpawnWave",
+                    "parameters": [
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 25,
+                            "long": 0,
+                            "string": "",
+                            "type": "int",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "Pawn",
+                            "type": "string",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "SpawnTop5",
+                            "type": "string",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "",
+                            "type": "Vector2",
+                            "vector2X": 0.0,
+                            "vector2Y": -1.0
+                        }
+                    ],
+                    "time": 33440.06640625
+                },
+                {
+                    "functionName": "SpawnWave",
+                    "parameters": [
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 1,
+                            "long": 0,
+                            "string": "",
+                            "type": "int",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "Queen",
+                            "type": "string",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "BossSpawn",
+                            "type": "string",
+                            "vector2X": 0.0,
+                            "vector2Y": 0.0
+                        },
+                        {
+                            "bool": false,
+                            "double": 0.0,
+                            "float": 0.0,
+                            "int": 0,
+                            "long": 0,
+                            "string": "",
+                            "type": "Vector2",
+                            "vector2X": 0.0,
+                            "vector2Y": -1.0
+                        }
+                    ],
+                    "time": 44330.61328125
+                }
+            ],
+            "rigidBody": [],
+            "script": [],
+            "sprite": [],
+            "text": [],
+            "transform": []
+        },
+        "length": 0.0,
+        "name": "Level1"
+    }
+}
