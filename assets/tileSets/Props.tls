@@ -1,0 +1,10 @@
+{
+    "tileSetData": {
+        "name": "Props",
+        "texturePath": "",
+        "tileHeight": 16,
+        "tileSetPath": "..\\assets\\tileSets\\/Props.tls",
+        "tileWidth": 16
+    },
+    "tiles": []
+}
